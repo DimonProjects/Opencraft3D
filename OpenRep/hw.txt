@@ -1,0 +1,3 @@
+How to install? Install Launcher (TL)
+Download Opencraft 
+Copy to C:\Users\*Your username*\AppData\Roaming\.minecraft\versions
